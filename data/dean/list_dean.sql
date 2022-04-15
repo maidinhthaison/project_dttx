@@ -1,0 +1,5 @@
+SELECT [MaDA]
+      ,[TenDA]
+      ,[Ddiem_DA]
+      ,[MaPHG]
+  FROM [dbo].[DEAN]

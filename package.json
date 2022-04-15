@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "assert": "^2.0.0",
+    "axios": "^0.26.1",
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "express-ejs-layouts": "^2.5.1",
+    "fs-extra": "^10.0.1",
+    "mssql": "^8.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "name": "quanlyphongkham",
+  "description": "Đồ án môn Nhập Môn Công Nghệ Phần Mềm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maidinhthaison/project_cnpm.git"
+  },
+  "author": "maidinhthaison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maidinhthaison/project_cnpm/issues"
+  },
+  "homepage": "https://github.com/maidinhthaison/project_cnpm#readme"
+}
